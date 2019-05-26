@@ -32,4 +32,4 @@ Por ultimo solo queda probar el programa ingresando los siguientes datos que se 
 
 Con los datos ingresados se produce la siguiente cadena de numeros pseudoaleatorios
 
-![image](https://user-images.githubusercontent.com/33529768/58387365-10e85780-7fd3-11e9-9ce2-f8b93df26ff6.png)
+![image](https://user-images.githubusercontent.com/33529768/58387462-0b3f4180-7fd4-11e9-9eb1-3c8cfa0ba5d4.png)
