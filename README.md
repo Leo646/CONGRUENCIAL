@@ -16,7 +16,7 @@
 
 Como segundo caso se emplean las condiciones if() para el buen funcionamiento del programa. Se van a utilizar tres condiciones If().En en primer if() se establece que p debe estar entre los siguientes valores {3,11,13,19,21,27,29,37,53,59,61, 67,69,77,83,91 }, si se cumple esto el valor de a de determinara a través de la siguiente formula:
 
-![image](https://user-images.githubusercontent.com/33529768/58387233-42602380-7fd1-11e9-964c-3187c155d6e4.png)
+![image](https://user-images.githubusercontent.com/33529768/58387478-5e18f900-7fd4-11e9-93fa-3640c1e1249b.png)
 
 si se cumple lo mencionado anteriormente, pasamos al siguiente if() donde el valor de la semilla,X0 debe ser un numero impar no divisible para 2 o 5, si  esto se, cumple pasamos al ultimo if() que determinara si la semilla es impar o no. Si la semilla es impar , se utiliza la formula la siguiente:
 
