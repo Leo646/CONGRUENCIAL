@@ -14,17 +14,18 @@
    
 ![image](https://user-images.githubusercontent.com/33529768/58386998-8b15dd80-7fcd-11e9-932f-608711c867d1.png)
 
-Como segundo caso se emplean las condiciones if() para el buen funcionamiento del programa. Se van a utilizar tres condiciones If().En en primer if() se establece que p debe estar entre los siguientes valores {3,11,13,19,21,27,29,37,53,59,61, 67,69,77,83,91 }, si se cumple esto el valor de a de determinara a través de la siguiente formula:
+Como segundo caso se emplean las condiciones if() para el buen funcionamiento del programa. Se van a utilizar tres condiciones If().En en primer if() se establece que p debe estar entre los siguientes valores {3,11,13,19,21,27,29,37,53,59,61, 67,69,77,83,91 }, si se cumple esto el valor de "a" se determinara a través de la siguiente formula:
 
-![image](https://user-images.githubusercontent.com/33529768/58387478-5e18f900-7fd4-11e9-93fa-3640c1e1249b.png)
+![image](https://user-images.githubusercontent.com/33529768/58387519-35ddca00-7fd5-11e9-81a7-04e1718b803b.png)
 
-si se cumple lo mencionado anteriormente, pasamos al siguiente if() donde el valor de la semilla,X0 debe ser un numero impar no divisible para 2 o 5, si  esto se, cumple pasamos al ultimo if() que determinara si la semilla es impar o no. Si la semilla es impar , se utiliza la formula la siguiente:
+
+si se cumple lo mencionado anteriormente, pasamos al siguiente if() donde el valor de la semilla,X0 debe ser un numero impar no divisible para 2 o 5, si  esto se, cumple pasamos al ultimo if() que determinara si la semilla es impar o no. Si la semilla es impar , se utiliza la formula la siguiente para generar los numero Pseudoaleatorios:
 
 ![image](https://user-images.githubusercontent.com/33529768/58386937-640adc00-7fcc-11e9-8726-09571ea6ffc8.png)
 
-formula para generar los numero Pseudoaleatorios, caso contrario se volver a introducr los datos para generar los numero pseudoaleatorios. Visualizando el código quedaría de la siguiente manera.
+caso contrario se volverá a introducir los datos para generar los numero pseudoaleatorios. Visualizando el código quedaría de la siguiente manera.
 
-![image](https://user-images.githubusercontent.com/33529768/58387325-725bf680-7fd2-11e9-9aa0-e2af683cc450.png)
+![image](https://user-images.githubusercontent.com/33529768/58387478-5e18f900-7fd4-11e9-93fa-3640c1e1249b.png)
 
 Por ultimo solo queda probar el programa ingresando los siguientes datos que se visualizan en la imagen.
 
